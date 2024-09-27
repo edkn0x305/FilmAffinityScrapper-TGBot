@@ -207,7 +207,7 @@ async def show_synopsis(update: Update, context: ContextTypes.DEFAULT_TYPE):
 # Main function to run the bot
 def main():
     # Get the bot token from BotFather
-    TOKEN = '7879240423:AAFkJVq-pbjRwIj-e21Hia8Ae3GxJ5nFrJ0'
+    TOKEN = 'YOUR_TOKEN'
 
     # Create the Application and pass it your bot's token
     application = ApplicationBuilder().token(TOKEN).build()
