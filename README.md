@@ -1,6 +1,6 @@
-# FilmAffinity Movie Search Bot
+# 305 CineScope Bot
 
-FilmAffinity Movie Search Bot es un bot de Telegram que permite a los usuarios buscar películas en FilmAffinity directamente desde Telegram. El bot devuelve metadatos detallados de las películas como el título, año, director, sinopsis y más. También permite a los usuarios acceder rápidamente a la sinopsis completa de una película seleccionada mediante un botón.
+305 CineScope Bot Bot es un bot de Telegram que permite a los usuarios buscar películas en FilmAffinity directamente desde Telegram. El bot devuelve metadatos detallados de las películas como el título, año, director, sinopsis y más. También permite a los usuarios acceder rápidamente a la sinopsis completa de una película seleccionada mediante un botón.
 
 ## Funcionalidades
 
